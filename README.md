@@ -1,7 +1,5 @@
-# Sales-Dashboard-Using-Tableau
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6550a9a-71d3-4b4d-8804-6845cd08ad92">
+  <img src="https://github.com/user-attachments/assets/fb0e4c29-33e4-48d5-a849-89ba2588de7b">
 </p>
 
 ## Links:
